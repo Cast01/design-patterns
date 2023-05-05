@@ -1,0 +1,27 @@
+Existem muitos Design Patterns, aqui estão alguns deles:
+
+01. Padrão de Projeto - Abstract Factory (Abstract Factory Pattern)
+02. Padrão de Projeto - Adapter (Adapter Pattern)
+03. Padrão de Projeto - Bridge (Bridge Pattern)
+04. Padrão de Projeto - Builder (Builder Pattern)
+05. Padrão de Projeto - Chain of Responsibility (Chain of Responsibility Pattern)
+06. Padrão de Projeto - Command (Command Pattern)
+07. Padrão de Projeto - Composite (Composite Pattern)
+08. Padrão de Projeto - Decorator (Decorator Pattern)
+09. Padrão de Projeto - Facade (Facade Pattern)
+10. Padrão de Projeto - Factory Method (Factory Method Pattern)
+11. Padrão de Projeto - Flyweight (Flyweight Pattern)
+12. Padrão de Projeto - Interpreter (Interpreter Pattern)
+13. Padrão de Projeto - Iterator (Iterator Pattern)
+14. Padrão de Projeto - Mediator (Mediator Pattern)
+15. Padrão de Projeto - Memento (Memento Pattern)
+16. Padrão de Projeto - Observer (Observer Pattern)
+17. Padrão de Projeto - Prototype (Prototype Pattern)
+18. Padrão de Projeto - Proxy (Proxy Pattern)
+19. Padrão de Projeto - Singleton (Singleton Pattern)
+20. Padrão de Projeto - State (State Pattern)
+21. Padrão de Projeto - Strategy (Strategy Pattern)
+22. Padrão de Projeto - Template Method (Template Method Pattern)
+23. Padrão de Projeto - Visitor (Visitor Pattern)
+
+Cada padrão de projeto possui uma descrição detalhada e exemplos de uso, mas essa lista deve ser suficiente para dar uma visão geral dos principais padrões de projeto existentes.
